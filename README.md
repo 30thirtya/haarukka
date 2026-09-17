@@ -34,4 +34,3 @@
 - Branches
 - Isolating changes
 - Feature workflows
-- Multiple pull requests
