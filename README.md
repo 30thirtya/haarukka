@@ -9,7 +9,6 @@
 - Create a file named after yourself (e.g. mikko-lehto.txt)
 - Commit your changes
 - Push to GitHub
-- Create a Pull Request to the course repository
 
 ### Learning outcomes
 
@@ -18,7 +17,6 @@
 - Clone
 - Commit
 - Push
-- Pull Request
 
 ## Task 2: Working with Branches
 
@@ -29,7 +27,7 @@
 - Edit your file and add your favourite game and genre
 - Commit the changes
 - Push the branch
-- Create a second Pull Request
+- Merge to main
 
 ### Learning outcomes
 
